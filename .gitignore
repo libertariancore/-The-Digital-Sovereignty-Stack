@@ -1,0 +1,4 @@
+etc-pihole/
+masterdns/
+*.txt
+*.conf
