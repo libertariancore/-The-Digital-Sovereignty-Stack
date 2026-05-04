@@ -25,7 +25,7 @@ The fastest way to deploy the entire stack on a fresh Ubuntu/Debian server is to
 Run these commands to install Docker, create necessary directories, and launch all services:
 
 ```bash
-git clone [https://github.com/libertariancore/-The-Digital-Sovereignty-Stack.git](https://github.com/libertariancore/-The-Digital-Sovereignty-Stack.git)
+git clone https://github.com/libertariancore/-The-Digital-Sovereignty-Stack.git
 cd -The-Digital-Sovereignty-Stack
 chmod +x setup.sh
 ./setup.sh
